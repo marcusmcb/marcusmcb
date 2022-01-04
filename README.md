@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![MCB's GitHub Banner](./assets/background.jpg)](https://www.mcbportfolio.com/)
+
 <!--
 **marcusmcb/marcusmcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
