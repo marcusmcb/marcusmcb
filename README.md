@@ -6,7 +6,7 @@
 
 ### Greetings! 👋
 
-I'm Marcus, a full-stack developer, task-wrangler and certified problem-solver. I'm genuinely curious about code and look to add to my toolbox as often as need be.  I'm a big fan of pulling data out of the ether and presenting it in creative, efficient and user-effective ways.  
+I'm Marcus, a full-stack developer, task-wrangler and creative problem-solver. I'm genuinely curious about code and look to add to my toolbox as often as need be.  I'm a big fan of pulling data out of the ether and presenting it in system-efficient and user-effective ways.  
 
 More about me? [Here you go!](https://www.mcbportfolio.com/)
 
