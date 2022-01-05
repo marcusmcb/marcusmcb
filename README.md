@@ -1,4 +1,4 @@
-[![MCB's GitHub Banner](./assets/github-banner.png)](https://www.mcbportfolio.com/)
+[![MCB's GitHub Banner](./assets/new-github-banner.png)](https://www.mcbportfolio.com/)
 
 [![Visits Badge](https://badges.pufler.dev/visits/marcusmcb/marcusmcb)](https://www.mcbportfolio.com)
 
