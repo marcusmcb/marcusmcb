@@ -10,7 +10,7 @@ I'm Marcus, a full-stack developer, task-wrangler and creative problem-solver. I
 
 More about me? [Here you go!](https://www.mcbportfolio.com/)
 
-## Featured Repositories
+<!-- ## Featured Repositories
 
 <a href="https://github.com/marcusmcb/crypto-dashboard">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=marcusmcb&repo=crypto-dashboard&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=2e3250" />
@@ -19,17 +19,17 @@ More about me? [Here you go!](https://www.mcbportfolio.com/)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=marcusmcb&repo=JS-Drum-Machine&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=2e3250" />
 </a>
 <br>
-<br>
+<br> -->
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats -->
 
 <!-- <a href="https://github.com/marcusmcb">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmcb&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> -->
 
-<a href="https://github.com/marcusmcb">
+<!-- <a href="https://github.com/marcusmcb">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=marcusmcb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=2e3250" alt="Martin's GitHub Stats" />
-</a>
+</a> -->
 
 ## Skills
 <br>
