@@ -12,7 +12,7 @@ More about me? [Here you go!](https://www.mcbportfolio.com/)
 
 ## Featured Repositories
 
-<a href="https://github.com/marcusmcb/crypto-dashboard">
+<a href="https://github.com/marcusmcb/twitch-chat-bot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=marcusmcb&repo=crypto-dashboard&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=2e3250" />
 </a>
 <a href="https://github.com/marcusmcb/JS-Drum-Machine">
