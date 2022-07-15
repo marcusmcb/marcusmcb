@@ -1,8 +1,8 @@
 [![MCB's GitHub Banner](./assets/new-github-banner.png)](https://www.mcbportfolio.com/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/marcusmcb/marcusmcb)](https://www.mcbportfolio.com) [![Commits Badge](https://badges.pufler.dev/commits/monthly/marcusmcb)](https://badges.pufler.dev)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/marcusmcb/marcusmcb)](https://www.mcbportfolio.com) [![Commits Badge](https://badges.pufler.dev/commits/monthly/marcusmcb)](https://badges.pufler.dev)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2e3250&logoWidth=40)](https://www.linkedin.com/in/marcusmcbride-developer/) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=2e3250&logoWidth=40)](https://twitter.com/djmarcusmcb) [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=hackerrank&logoColor=white&color=2e3250&logoWidth=40)](https://www.hackerrank.com/marcusmcb)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2e3250&logoWidth=40)](https://www.linkedin.com/in/marcusmcbride-developer/) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=2e3250&logoWidth=40)](https://twitter.com/djmarcusmcb) [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=hackerrank&logoColor=white&color=2e3250&logoWidth=40)](https://www.hackerrank.com/marcusmcb) -->
 
 ### Greetings! 👋
 
