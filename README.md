@@ -50,6 +50,7 @@ More about me? [Here you go!](https://www.mcbportfolio.com/)
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html3&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
