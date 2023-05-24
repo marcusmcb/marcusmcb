@@ -6,7 +6,7 @@
 
 ### Greetings! 👋
 
-Marcus here.  I'm a full-stack developer, task-wrangler and creative problem-solver. Currently building out simple, effective live-streaming tools/solutions via Node.  I'm a big fan of pulling data out of the ether and presenting it in system-efficient and user-effective ways.  
+Marcus here.  I'm a full-stack developer, task-wrangler and creative problem-solver. I'm a big fan of pulling data out of the ether and presenting it in system-efficient and user-effective ways.  Currently building out custom chatbot solutions, live-streaming tools, and an interactive data analysis platform for DJs in my spare time.
 
 More about me? [Here you go!](https://www.mcbportfolio.com/)
 
@@ -41,6 +41,7 @@ More about me? [Here you go!](https://www.mcbportfolio.com/)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
@@ -49,7 +50,6 @@ More about me? [Here you go!](https://www.mcbportfolio.com/)
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
