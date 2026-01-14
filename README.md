@@ -14,11 +14,11 @@ More about me? [Here you go!](https://www.mcbportfolio.com/)
 
 ## Featured Projects:
 
-<a href="https://www.npchatbot.com">npChatbot</a> - a music discovery tool for live-streamers and their viewers on Twitch
+<a href="https://www.npchatbot.com" target="_blank">npChatbot</a> - a music discovery tool for live-streamers and their viewers on Twitch
 
-<a href="https://www.cratestats.com">CrateStats</a> - a playlist analysis platform for DJs
+<a href="https://www.cratestats.com" target="_blank">CrateStats</a> - a playlist analysis platform for DJs
 
-<a href="https://www.remixarkive.com">remixArkive</a> - an automated music discovery bot currently running on Bluesky
+<a href="https://www.remixarkive.com" target="_blank">remixArkive</a> - an automated music discovery bot currently running on Bluesky
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
