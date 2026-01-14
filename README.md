@@ -11,7 +11,6 @@ Marcus here.  I'm a full-stack developer, task-wrangler and creative problem-sol
 More about me? [Here you go!](https://www.mcbportfolio.com/)
 
 <br>
-<br>
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
