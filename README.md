@@ -6,11 +6,17 @@
 
 ### Greetings! 👋
 
-Marcus here.  I'm a full-stack developer, task-wrangler and creative problem-solver. I'm a big fan of parsing useful data out of the ether and presenting it in resource-efficient and user-engaging ways.  Currently building out custom chatbot solutions, live-streaming tools, and an interactive data analysis platform for DJs in my spare time.  
+Marcus here.  I'm a full-stack developer, software engineer, and creative problem-solver. I'm a big fan of parsing useful data out of the ether and presenting it in resource-efficient and user-engaging ways.  Currently building out custom agent & chatbot solutions, live-streaming tools, and smart device integrations in my spare time.  
 
 More about me? [Here you go!](https://www.mcbportfolio.com/)
 
 <br>
+
+Featured projects:
+
+<a href="https://www.npchatbot.com">npChatbot</a> - a music discovery tool for live-streamers and their viewers on Twitch
+CrateStats - a playlist analysis platform for DJs
+remixArkive - an automated music discovery bot currently running on Bluesky
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
