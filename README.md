@@ -10,9 +10,7 @@ Marcus here.  I'm a full-stack developer, software engineer, and creative proble
 
 More about me? [Here you go!](https://www.mcbportfolio.com/)
 
-<br>
-
-## Featured Projects:
+### Featured Projects:
 
 <a href="https://www.npchatbot.com" target="_blank">npChatbot</a> - a music discovery tool for live-streamers and their viewers on Twitch
 
