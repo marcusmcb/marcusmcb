@@ -6,7 +6,7 @@
 
 ### Greetings! 👋
 
-Marcus here.  I'm a full-stack developer, software engineer, and creative problem-solver. I'm a big fan of parsing useful data out of the ether and presenting it in resource-efficient and user-engaging ways.  Currently building out custom agent & chatbot solutions, live-streaming tools, and smart device integrations in my spare time.  
+Marcus here.  I'm a full-stack software engineer, project manager, and creative problem-solver. I'm a big fan of parsing useful data out of the ether and presenting it in resource-efficient and user-engaging ways.  Currently building out custom agent & chatbot solutions, live-streaming tools, and smart device integrations in my spare time.  
 
 More about me? [Here you go!](https://www.mcbportfolio.com/)
 
